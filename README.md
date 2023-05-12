@@ -19,7 +19,7 @@
   - LiquidCrystal_I2C
 ```
 
-## Materiais Utlizados
+## Componentes Utlizados
 
 ```
   - ESP32
