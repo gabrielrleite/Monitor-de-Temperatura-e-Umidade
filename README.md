@@ -46,7 +46,7 @@
  - [WOKWI](https://wokwi.com/projects/364472568698491905)
  - [ThingSpeak](https://thingspeak.com/channels/2144388)
  - [Arduino IDE](https://www.arduino.cc/en/software)
- - [Editor read.me](https://readme.so/pt/editor)
+ - [Editor README.md](https://readme.so/pt/editor)
 
 
 ## Licença
