@@ -38,7 +38,7 @@
 
 ![Circuito Ligado](https://github.com/gabrielrleite/Monitor-de-Temperatura-e-Umidade/blob/main/src/Circuito_2.png)
 
-![ThingSpeak](https://github.com/gabrielrleite/Monitor-de-Temperatura-e-Umidade/blob/main/src/ThingSpeak.png)
+![ThingSpeak](https://github.com/gabrielrleite/Monitor-de-Temperatura-e-Umidade/blob/main/src/ThingSpeakMonitor.png)
 
 
 ## Referência
