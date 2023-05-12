@@ -1,6 +1,9 @@
 
 # Monitor de Temperatura e Umidade
 
+- Ao atingir a temperatura de 35ºC o acionador 1 é ativado;
+- Ao atingir a umidade de 70% o acionador 2 é ativado;
+- As informações são enviadas a cada 5 segundos para a plataforma [ThingSpeak](https://thingspeak.com/channels/2144388).
 
 ## Instalação
 
@@ -41,6 +44,7 @@
  - [WOKWI](https://wokwi.com/projects/364472568698491905)
  - [ThingSpeak](https://thingspeak.com/channels/2144388)
  - [Arduino IDE](https://www.arduino.cc/en/software)
+ - [Editor read.me](https://readme.so/pt/editor)
 
 
 ## Licença
