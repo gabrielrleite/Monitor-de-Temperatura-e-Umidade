@@ -12,7 +12,7 @@
   Abra o arquivo `monitor_temp_hum.ino` com o Arduino IDE
   Faça o upload do código e instalação das bibliotecas
 ```
-## Biblitecas
+## Bibliotecas
 
 ```
   - Adafruit_Sensor
